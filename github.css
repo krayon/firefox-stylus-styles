@@ -17,7 +17,7 @@
 
 /* This is the (new react v2) issue main body */
 .flnrSO {
-  width: auto !important;
+  width: 100% !important;
   
   /* Leave room for issue sidebar */
   max-width: calc(100% - 426px);
