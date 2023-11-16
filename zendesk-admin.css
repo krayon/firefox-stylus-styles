@@ -1,0 +1,17 @@
+@-moz-document regexp("https?://.*\\.zendesk\\.com/admin/.*") {
+
+/* Zendesk Admin View configuration interface SUCKS */
+
+.dropdown--2kTLT:nth-of-type(3n) {
+  width: auto !important;
+}
+
+.dropdown--2kTLT {
+  width: auto !important;
+}
+
+.haqGjK ul {
+  width: auto !important;
+}
+
+}

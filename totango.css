@@ -1,0 +1,7 @@
+@-moz-document domain("app.totango.com") {
+
+.form-dialog .form-wizard {
+    max-width: none;
+}
+
+}
