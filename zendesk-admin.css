@@ -1,4 +1,4 @@
-@-moz-document regexp("https?://.*\\.zendesk\\.com/admin/.*") {
+@-moz-document regexp("https?://.*\\.zendesk\\.com/admin/.*"), regexp("https?://.*\\.zendesk\\.com/.*/admin/.*") {
 
 /* Zendesk Admin View configuration interface SUCKS */
 
