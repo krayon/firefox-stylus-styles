@@ -10,12 +10,17 @@
   max-width: none !important;
 }
 
-/* This is the (new react v2) issue page */
-.lgWemw {
+/* The (new react v2) issue top bar */
+.fYgwIz {
   max-width: none !important;
 }
 
-/* This is the (new react v2) issue main body */
+/* The (new react v2) issue page */
+.lgWemw, .jyJqbs {
+  max-width: none !important;
+}
+
+/* The (new react v2) issue main body */
 .flnrSO {
   width: 100% !important;
   
@@ -23,7 +28,7 @@
   max-width: calc(100% - 426px);
 }
 
-/* This is the (new react v2) issue sidebar */
+/* The (new react v2) issue sidebar */
 .gypOwM {
   width: 33%;
   max-width: 426px;
