@@ -38,4 +38,24 @@
   max-width: 100%;
 }
 
+
+
+/* If you use sane, standard (ISO, RFC etc) date formats, they take up more space */
+.react-blame-for-range {
+/*
+    min-width: 350px;
+    max-width: 350px;
+*/
+    min-width: 450px;
+    max-width: 450px;
+}
+.react-blame-for-range .timestamp-ago {
+/*
+    width: 100px;
+*/
+    width: 200px;
+}
+
+
+
 }
