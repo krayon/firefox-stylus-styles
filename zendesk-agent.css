@@ -1,0 +1,10 @@
+@-moz-document regexp("https?://.*\\.zendesk\\.com/agent/.*"), regexp("https?://.*\\.zendesk\\.com/.*/agent/.*") {
+
+/* Zendesk Agent View */
+
+/* Columns in ticket view should be wider */
+.kasgYs {
+  max-width: none !important;
+}
+
+}
